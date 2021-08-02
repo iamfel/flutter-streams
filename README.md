@@ -4,7 +4,11 @@ stream and blocs
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter STREAM application.
+
+
+watch the demo of stream in action
+![Demo](https://github.com/iamfel/flutter-streams/blob/main/streamdemoamf.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
